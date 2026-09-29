@@ -82,7 +82,7 @@ th {
 }
 
 .in-progress {
-  background: #cfe2ff;
+  background: #0957cc;
 }
 
 .completed {
@@ -90,7 +90,7 @@ th {
 }
 
 .error {
-  color: red;
+  color: rgb(223, 9, 9);
 }
 
 .success {
