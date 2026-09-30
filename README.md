@@ -1,7 +1,7 @@
 # Task Management System
 
 A full-stack Task Management System built using **React.js** and **Django REST Framework**.
-The application allows users to create, view, update, delete, and filter tasks based on their status.
+The application allows users to create, view, update, delete, and filter tasks based on their status......
 
 ## 🚀 Features
 
