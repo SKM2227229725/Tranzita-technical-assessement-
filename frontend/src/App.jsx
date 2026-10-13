@@ -14,7 +14,9 @@ function App() {
     description: "",
     priority: "",
     status: "",
-    dueDate: ""
+
+     dueDate: ""
+   
   });
 
   const [editingId, setEditingId] = useState(null);
